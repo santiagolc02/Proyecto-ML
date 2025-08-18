@@ -9,11 +9,11 @@ En esta primera etapa se realiza un Análisis Exploratorio de Datos (EDA) para i
 
 📂 Estructura del Repositorio
 /data
-  # Archivo del dataset
+  Archivo del dataset
 /notebooks
-  # Notebook con análisis exploratorio
+  Notebook con análisis exploratorio
 /reports
-  # Documento en PDF con la primera entrega
+  Documento en PDF con la primera entrega
 README.md                        # Instrucciones del proyecto
 
 ⚙️ Requisitos
